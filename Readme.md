@@ -28,7 +28,7 @@ back to a control panel to indicate whether a container has a high or
 low liquid level. The purpose of a liquid level indicator is to gauge and
 manage liquid levels in a liquid tank.
 
-![Screenshot](/image/screenshot.png)
+![Screenshot](/Image/screenshot.png)
 
 ## Apparatus
 
